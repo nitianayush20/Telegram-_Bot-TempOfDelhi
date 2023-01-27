@@ -1,0 +1,18 @@
+{
+  "name": "telegram-bot--temp-of-delhi",
+  "version": "1.0.0",
+  "description": "This is the first version of temp of delhi bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "author": "Ayush Anand",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "node-telegram-bot-api": "^0.61.0",
+    "openweather-apis": "^4.4.2"
+  }
+}
